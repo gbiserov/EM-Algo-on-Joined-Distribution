@@ -23,4 +23,4 @@ pip install numpy scipy jupyter
 jupyter notebook EM_GD.ipynb
 ```
 
-Run the cells top to bottom. The mixture fit should recover weights ≈ (0.5, 0.5), means ≈ (0, 5), and standard deviations ≈ (1, 1).
+Run the cells top to bottom. The mixture fit should recover weights ≈ (0.5, 0.5), means ≈ (0, 5), and standard deviations ≈ (1, 1). Also, latest version has graphs included, to show both distributions and convergence.
